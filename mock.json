@@ -3,36 +3,42 @@
     "logo": "https://images.icon-icons.com/2972/PNG/128/tiktok_logo_icon_186896.png",
     "id": "note_001",
     "content": "今天学习了React Hooks，终于搞清楚useEffect依赖数组的作用。总结：只有真正影响副作用的变量才应放入依赖中，否则会频繁触发渲染。",
-    "time": "2025-10-15T09:24:00Z"
+    "time": "2025-10-15T09:24:00Z",
+    "url": "https://example.com/notes/note_001"
   },
   {
     "logo": "https://images.icon-icons.com/2972/PNG/128/tiktok_logo_icon_186896.png",
     "id": "note_002",
     "content": "团队会议纪要：下季度重点优化用户留存。讨论方向包括改进注册引导流程、调整推荐算法、引入AI助手功能以提升互动体验。",
-    "time": "2025-10-14T16:12:00Z"
+    "time": "2025-10-14T16:12:00Z",
+    "url": "https://example.com/notes/note_002"
   },
   {
     "logo": "https://images.icon-icons.com/2972/PNG/128/tiktok_logo_icon_186896.png",
     "id": "note_003",
     "content": "尝试使用Notion API做笔记同步，遇到token权限报错。解决方案：在integration管理中授权workspace访问数据库后即可正常获取blocks。",
-    "time": "2025-10-13T21:45:00Z"
+    "time": "2025-10-13T21:45:00Z",
+    "url": "https://example.com/notes/note_003"
   },
   {
     "logo": "https://images.icon-icons.com/2972/PNG/128/tiktok_logo_icon_186896.png",
     "id": "note_004",
     "content": "灵感笔记：构想一个自动生成思维导图的AI笔记应用。输入任意文字，系统能自动提取关键词、分析逻辑关系，并生成交互式知识结构图。",
-    "time": "2025-10-12T08:33:00Z"
+    "time": "2025-10-12T08:33:00Z",
+    "url": "https://example.com/notes/note_004"
   },
   {
     "logo": "https://images.icon-icons.com/2972/PNG/128/tiktok_logo_icon_186896.png",
     "id": "note_006",
     "content": "【技术研究】前端性能优化方向：1. 资源懒加载；2. 代码拆分与缓存；3. 图片WebP化；4. 使用CDN；5. Performance API性能监控。",
-    "time": "2025-10-09T14:50:00Z"
+    "time": "2025-10-09T14:50:00Z",
+    "url": "https://example.com/notes/note_006"
   },
   {
     "logo": "https://images.icon-icons.com/2972/PNG/128/tiktok_logo_icon_186896.png",
     "id": "note_010",
     "content": "【灵感】想做一个极简风的个人知识库应用：Markdown编辑 + 标签分类 + AI摘要 + 本地加密存储。目标是让笔记更自由、安全且可离线使用。【灵感】想做一个极简风的个人知识库应用：Markdown编辑 + 标签分类 + AI摘要 + 本地加密存储。目标是让笔记更自由、安全且可离线使用。【灵感】想做一个极简风的个人知识库应用：Markdown编辑 + 标签分类 + AI摘要 + 本地加密存储。目标是让笔记更自由、安全且可离线使用。",
-    "time": "2025-10-03T09:58:00Z"
+    "time": "2025-10-03T09:58:00Z",
+    "url": "https://example.com/notes/note_010"
   }
 ]
