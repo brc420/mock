@@ -1,60 +1,36 @@
 [
   {
-    "logo": "https://example.com/images/note_logo_1.png",
+    "logo": "https://images.icon-icons.com/2972/PNG/128/tiktok_logo_icon_186896.png",
     "id": "note_001",
     "content": "今天学习了React Hooks，终于搞清楚useEffect依赖数组的作用。总结：只有真正影响副作用的变量才应放入依赖中，否则会频繁触发渲染。",
     "time": "2025-10-15T09:24:00Z"
   },
   {
-    "logo": "https://example.com/images/note_logo_2.png",
+    "logo": "https://images.icon-icons.com/2972/PNG/128/tiktok_logo_icon_186896.png",
     "id": "note_002",
     "content": "团队会议纪要：下季度重点优化用户留存。讨论方向包括改进注册引导流程、调整推荐算法、引入AI助手功能以提升互动体验。",
     "time": "2025-10-14T16:12:00Z"
   },
   {
-    "logo": "https://example.com/images/note_logo_3.png",
+    "logo": "https://images.icon-icons.com/2972/PNG/128/tiktok_logo_icon_186896.png",
     "id": "note_003",
     "content": "尝试使用Notion API做笔记同步，遇到token权限报错。解决方案：在integration管理中授权workspace访问数据库后即可正常获取blocks。",
     "time": "2025-10-13T21:45:00Z"
   },
   {
-    "logo": "https://example.com/images/note_logo_4.png",
+    "logo": "https://images.icon-icons.com/2972/PNG/128/tiktok_logo_icon_186896.png",
     "id": "note_004",
     "content": "灵感笔记：构想一个自动生成思维导图的AI笔记应用。输入任意文字，系统能自动提取关键词、分析逻辑关系，并生成交互式知识结构图。",
     "time": "2025-10-12T08:33:00Z"
   },
   {
-    "logo": "https://example.com/images/note_logo_5.png",
-    "id": "note_005",
-    "content": "阅读《深度工作》。核心理念：专注是一种稀缺能力。通过建立“深度时间段”来屏蔽干扰、提高产出。计划尝试每天早上两小时无社交媒体模式。",
-    "time": "2025-10-10T11:10:00Z"
-  },
-  {
-    "logo": "https://example.com/images/note_logo_6.png",
+    "logo": "https://images.icon-icons.com/2972/PNG/128/tiktok_logo_icon_186896.png",
     "id": "note_006",
     "content": "【技术研究】前端性能优化方向：1. 资源懒加载；2. 代码拆分与缓存；3. 图片WebP化；4. 使用CDN；5. Performance API性能监控。",
     "time": "2025-10-09T14:50:00Z"
   },
   {
-    "logo": "https://example.com/images/note_logo_7.png",
-    "id": "note_007",
-    "content": "【生活随笔】夜风很温柔，像极了夏天回家的路。长大后忙碌的节奏让人忘了慢下来，这一刻突然想起小时候的晚风和街灯。",
-    "time": "2025-10-07T19:32:00Z"
-  },
-  {
-    "logo": "https://example.com/images/note_logo_8.png",
-    "id": "note_008",
-    "content": "【项目复盘】上线新功能过程中暴露协作问题：沟通延迟、文档缺失。计划推行每日任务更新与统一需求模板制度。",
-    "time": "2025-10-05T13:27:00Z"
-  },
-  {
-    "logo": "https://example.com/images/note_logo_9.png",
-    "id": "note_009",
-    "content": "【学习总结】今天了解了LLM上下文窗口机制。关键点：prompt长度影响生成质量；在多轮对话中要控制token数量避免截断。",
-    "time": "2025-10-04T18:41:00Z"
-  },
-  {
-    "logo": "https://example.com/images/note_logo_10.png",
+    "logo": "https://images.icon-icons.com/2972/PNG/128/tiktok_logo_icon_186896.png",
     "id": "note_010",
     "content": "【灵感】想做一个极简风的个人知识库应用：Markdown编辑 + 标签分类 + AI摘要 + 本地加密存储。目标是让笔记更自由、安全且可离线使用。",
     "time": "2025-10-03T09:58:00Z"
